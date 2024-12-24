@@ -1,4 +1,4 @@
-package main
+package mymath
 
 func AddInts(a, b) int{
   return a + b
