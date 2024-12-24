@@ -1,5 +1,5 @@
 package mymath
 
-func AddInts(a, b) int{
+func Add(a, b) int{
   return a + b
 }
